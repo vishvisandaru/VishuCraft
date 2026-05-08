@@ -12,6 +12,7 @@ Product section
 Login page
 Image slider/banner
 About and contact sections
+
 🚀 Features
 Responsive navigation menu
 Attractive homepage banner
@@ -19,32 +20,34 @@ Product showcase section
 Login page integration
 Smooth image display/slider
 Simple and user-friendly interface
+
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript
+
 📂 Project Structure
 Vishu_Craft/
-│
-├── index.html
-├── style.css
-├── script.js
-├── loginpage.html
-├── product.html
-├── logo.jpg
-├── backg.jpeg
-├── 2.jpg
-└── back.png
+  index.html
+  style.css
+  script.js
+  loginpage.html
+  product.html
+  logo.jpg
+  backg.jpeg
+  2.jpg
+  back.png
+
 ▶️ How to Run the Project
+
 Download or clone the repository
 Open the project folder
 Run index.html using any web browser
-🎯 Purpose of the Project
 
+🎯 Purpose of the Project
 The purpose of this project is to create an attractive online shopping platform for decorative products and improve frontend web development skills.
 
 👨‍💻 Author
-
 Vishvi Sandaru
 
 📞 Contact
