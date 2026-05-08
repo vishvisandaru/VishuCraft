@@ -51,7 +51,6 @@ The purpose of this project is to create an attractive online shopping platform 
 Vishvi Sandaru
 
 📞 Contact
-
 For any suggestions or improvements, feel free to contact me.
 
 ⭐ Future Improvements
